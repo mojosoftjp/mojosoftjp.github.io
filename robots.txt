@@ -1,0 +1,16 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mojosoftjp.github.io/sitemap.xml
+Sitemap: https://mojosoftjp.github.io/sakutto-videotranslator/sitemap.xml
+Sitemap: https://mojosoftjp.github.io/sakutto-pdf/sitemap.xml
+Sitemap: https://mojosoftjp.github.io/sakutto-imageconverter/sitemap.xml
+Sitemap: https://mojosoftjp.github.io/sakutto-videoconverter/sitemap.xml
+Sitemap: https://mojosoftjp.github.io/sakutto-audioconverter/sitemap.xml
+Sitemap: https://mojosoftjp.github.io/vibefront/sitemap.xml
+Sitemap: https://mojosoftjp.github.io/mira-ai/sitemap.xml
+Sitemap: https://mojosoftjp.github.io/rocketwhisper/sitemap.xml
+Sitemap: https://mojosoftjp.github.io/rocketwhisper-mac/sitemap.xml
+Sitemap: https://mojosoftjp.github.io/rocketwhisper-linux/sitemap.xml
+Sitemap: https://mojosoftjp.github.io/rocketmouse-mac/sitemap.xml
+Sitemap: https://mojosoftjp.github.io/vintage-vault/sitemap.xml
